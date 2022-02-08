@@ -5,3 +5,8 @@ extra:
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/chabErch
+      name: ChabErch
+    - icon: fontawesome/brands/github 
+      link: https://github.com/userusr
+      name: userusr
+
