@@ -1,3 +1,7 @@
 site_name: Informatika
 theme:
   name: material
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/chabErch
