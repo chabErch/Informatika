@@ -3,7 +3,7 @@ theme:
   name: material
 nav:
     - План проведения: 'План.md'
-    - История сети Интернет: 'History of Internet.md'
+    - История сети Интернет: 'История Интернета.md'
 extra:
   social:
     - icon: fontawesome/brands/github 
