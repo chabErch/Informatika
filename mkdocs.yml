@@ -1,6 +1,9 @@
 site_name: Informatika
 theme:
   name: material
+nav:
+    - План проведения: 'План.md'
+    - История сети Интернет: 'History of Internet.md'
 extra:
   social:
     - icon: fontawesome/brands/github 
@@ -9,6 +12,5 @@ extra:
     - icon: fontawesome/brands/github 
       link: https://github.com/userusr
       name: userusr
-nav:
-    - План проведения: 'План.md'
-    - История сети Интернет: 'History of Internet.md'
+markdown_extensions:
+    - footnotes
