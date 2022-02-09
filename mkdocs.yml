@@ -14,3 +14,5 @@ extra:
       name: userusr
 markdown_extensions:
     - footnotes
+    - abbr
+    - pymdownx.snippets
