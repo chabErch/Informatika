@@ -16,3 +16,5 @@ markdown_extensions:
     - footnotes
     - abbr
     - pymdownx.snippets
+    - attr_list
+    - md_in_html
