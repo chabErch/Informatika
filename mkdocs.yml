@@ -4,6 +4,7 @@ theme:
 nav:
     - План проведения: 'План.md'
     - История сети Интернет: 'История Интернета.md'
+    - Построение сети: 'Построение сети.md'
 extra:
   social:
     - icon: fontawesome/brands/github 
