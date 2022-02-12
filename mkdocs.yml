@@ -1,12 +1,15 @@
 site_name: Informatika
+
 theme:
   name: material
+  
 nav:
-    - План проведения: 'План.md'
-    - 'Что такое Интернет':
-        - История сети Интернет: 'История Интернета.md'
-        - Построение сети: 'Построение сети.md'
-        - Интернет-провайдеры: 'Провайдеры.md'
+  - План проведения: 'План.md'
+  - 'Что такое Интернет':
+    - История сети Интернет: 'История Интернета.md'
+    - Построение сети: 'Построение сети.md'
+    - Интернет-провайдеры: 'Провайдеры.md'
+    
 extra:
   social:
     - icon: fontawesome/brands/github 
@@ -15,9 +18,17 @@ extra:
     - icon: fontawesome/brands/github 
       link: https://github.com/userusr
       name: userusr
+      
 markdown_extensions:
-    - footnotes
-    - abbr
-    - pymdownx.snippets
-    - attr_list
-    - md_in_html
+  - footnotes
+  - abbr
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+    generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
