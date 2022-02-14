@@ -26,11 +26,11 @@ markdown_extensions:
   - pymdownx.snippets
   - attr_list
   - md_in_html
-  - pymdownx.arithmatex:
-      generic: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_javascript:
   - javascripts/mathjax.js
