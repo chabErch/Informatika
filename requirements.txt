@@ -1,3 +1,4 @@
 mkdocs-material
 weasyprint
 mkdocs-with-pdf
+mkdocs-pdf-export-plugin
