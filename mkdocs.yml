@@ -42,4 +42,4 @@ extra_javascript:
 
 plugins:
   - search
-  - mkpdfs
+  - pdf-export
