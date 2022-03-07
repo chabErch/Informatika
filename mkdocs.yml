@@ -42,6 +42,5 @@ extra_javascript:
 
 plugins:
   - search
-  - pdf-export
-  - with-pdf:
-    #author: chabErch      
+  - mkpdfs:
+    author: chaberch
