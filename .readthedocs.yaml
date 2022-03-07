@@ -1,0 +1,20 @@
+version: 2
+
+build:
+  os: ubuntu-20.04
+  tools:
+    python: "3.9"
+  apt_packages:
+    - python3-cffi
+    - python3-brotli
+    - libpango-1.0-0
+    - libharfbuzz0b
+    - libpangoft2-1.0-0
+    
+mkdocs:
+  configuration: mkdocs.ym
+  fail_on_warning: false
+    
+python:
+   install:
+   - requirements: docs/requirements.txt
