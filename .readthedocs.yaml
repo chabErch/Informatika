@@ -12,7 +12,7 @@ build:
     - libpangoft2-1.0-0
     
 mkdocs:
-  configuration: mkdocs.ym
+  configuration: mkdocs.yml
   fail_on_warning: false
     
 python:
