@@ -1,5 +1,5 @@
 mkdocs-material
-weasyprint
+weasyprint==52.5
 mkdocs-with-pdf
 mkdocs-pdf-export-plugin
 mkpdfs-mkdocs
