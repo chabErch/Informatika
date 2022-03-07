@@ -42,5 +42,4 @@ extra_javascript:
 
 plugins:
   - search
-  - mkpdfs:
-    author: chaberch
+  - mkpdfs
