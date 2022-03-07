@@ -41,5 +41,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
-    - with-pdf:
-      #author: chabErch      
+  - search
+  - pdf-export
+  - with-pdf:
+    #author: chabErch      
