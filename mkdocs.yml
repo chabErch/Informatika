@@ -42,5 +42,4 @@ extra_javascript:
 
 plugins:
   - search
-  - pdf-export:
-      - combined: true
+  - print-site
