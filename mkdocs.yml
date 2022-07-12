@@ -1,4 +1,7 @@
 site_name: Informatika
+repo_url: https://github.com/chabErch/Informatika
+site_author: chaberch
+copyright: Copyright &copy; 2022 chaberch
 
 theme:
   name: material
