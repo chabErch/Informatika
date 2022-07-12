@@ -54,5 +54,5 @@ plugins:
   - search:
       lang: ru
   - print-site:
-      add_print_site_banner: true
+      add_cover_page: true
       cover_page_template: "custom_cover_page.tpl"
