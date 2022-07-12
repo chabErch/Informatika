@@ -53,4 +53,5 @@ extra_javascript:
 plugins:
   - search:
       lang: ru
-  - print-site
+  - print-site:
+    add_print_site_banner: true
