@@ -61,3 +61,5 @@ plugins:
   - print-site:
       add_cover_page: true
       cover_page_template: "custom_cover_page.tpl"
+  - git-revision-date-localized:
+      enable_creation_date: true

@@ -3,3 +3,4 @@ weasyprint==52.5
 git+https://github.com/jwaschkau/mkpdfs-mkdocs-plugin.git#egg=mkpdfs-mkdocs
 mkdocs-pdf-export-plugin
 mkdocs-print-site-plugin
+mkdocs-git-revision-date-localized-plugin
