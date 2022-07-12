@@ -5,6 +5,7 @@ copyright: Copyright &copy; 2022 chaberch
 
 theme:
   name: material
+  custom_dir: overrides
   
 nav:
   - План проведения: 'План.md'
