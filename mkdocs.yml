@@ -55,3 +55,4 @@ plugins:
       lang: ru
   - print-site:
       add_print_site_banner: true
+      cover_page_template: "custom_cover_page.tpl"
