@@ -1,3 +1,8 @@
+:root > * {
+  --md-primary-fg-color--light: #FF007B;
+  --md-primary-fg-color--dark:  #20f3fa;
+}
+
 .md-header {
   background: linear-gradient(135deg, #FF007B 0%, #EE82EE 50%, #20F3FA 100%);
 }
