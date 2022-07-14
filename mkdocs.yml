@@ -6,6 +6,8 @@ copyright: Copyright &copy; 2022 chaberch
 theme:
   name: material
   custom_dir: overrides
+  font:
+    text: Lato
   palette: 
 
     # Palette toggle for light mode
@@ -19,6 +21,8 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
+        
+
 
   
 nav:
