@@ -5,6 +5,8 @@ copyright: Copyright &copy; 2022 chaberch
 
 theme:
   name: material
+  logo: assets/Logo.svg
+  favicon: assets/Logo.svg
   custom_dir: overrides
   palette: 
     # Palette toggle for light mode
