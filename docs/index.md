@@ -1,3 +1,5 @@
+# Информатика
+
 ![Banner-dark](index.assets/Banner-dark.png#only-dark)
 ![Banner-light](index.assets/Banner-light.png#only-light)
 
