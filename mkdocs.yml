@@ -5,7 +5,7 @@ copyright: Copyright &copy; 2022 chaberch
 
 theme:
   name: material
-  logo: assets/Logo-white.svg
+  logo: assets/Logo-mini-white.svg
   favicon: assets/Favicon-gradient.svg
   custom_dir: overrides
   palette: 
