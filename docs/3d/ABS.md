@@ -89,8 +89,18 @@ ABS довольно гибкий, выдерживает высокие тем�
 
 ## Источники
 
-- [vektorus](https://vektorus.ru/blog/abs-plastik-pljusy-i-minusy.html#plyusy-i-minusy)
-- [3dnatives](https://www.3dnatives.com/en/abs-3d-printing-060620194/)
-- [xometry](https://www.xometry.com/resources/3d-printing/abs-3d-printing-filament/)
-- [matterhackers](https://www.matterhackers.com/articles/how-to-succeed-when-printing-with-abs)
-- [hubs](https://www.hubs.com/knowledge-base/pla-vs-abs-whats-difference/)
+- ABS-пластик: плюсы и минусы материала, особенности печати 
+[Электронный ресурс] URL:
+[https://vektorus.ru/blog/abs-plastik-pljusy-i-minusy.html#plyusy-i-minusy]
+- Все, что вам нужно знать об ABS для 3D-печати 
+[Электронный ресурс] URL:
+[https://www.3dnatives.com/en/abs-3d-printing-060620194/]
+- Все о нити для 3D-печати ABS: материалы, свойства, определение
+[Электронный ресурс] URL:
+[https://www.xometry.com/resources/3d-printing/abs-3d-printing-filament/]
+- Как добиться успеха при печати с помощью ABS
+[Электронный ресурс] URL: 
+[https://www.matterhackers.com/articles/how-to-succeed-when-printing-with-abs]
+- 3D-печать с использованием PLA и ABS: в чем разница?
+[Электронный ресурс] URL: 
+[https://www.hubs.com/knowledge-base/pla-vs-abs-whats-difference/]
