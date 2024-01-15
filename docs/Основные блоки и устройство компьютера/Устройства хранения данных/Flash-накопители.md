@@ -2,7 +2,7 @@
 
 ## Что такое Flash-накопитель?
 
-**Flash-накопитель** - это запоминающее устройство
+**Flash-накопитель** — это запоминающее устройство
 для хранения и переноса электронных данных
 (документов, изображений, аудио, видео).
 Он основан на технологии флэш-памяти,
@@ -26,6 +26,10 @@
 к сети Интернет или другим внешним устройствам.
 Обеспечивают более быструю загрузку компьютера,
 ускоряют передачу данных и повышают пропускную способность.
+Могут быть пригодны для копирования установочных пакетов 
+для основного программного обеспечения и операционных систем. 
+Например, WPS Office, пакеты Linux, 
+восстановление Windows и любые другие соответствующие программы.
 
 ## Какие бывают?
 
@@ -46,7 +50,7 @@
 
 ## Чем отличаются друг от друга?
 
-**SSD** - это более крупное устройство,
+**SSD** — это более крупное устройство,
 представляющее собой набор плат с микросхемами памяти.
 Он подключается к компьютеру или ноутбуку через интерфейс SATA либо PCIe.
 **SSD** отлично подойдет для тех, кто ценит скорость и производительность.
@@ -67,8 +71,18 @@
 
 ## Источники:
 
-- [uchet-jkh](https://uchet-jkh.ru/i/semnye-nositeli-fleska-angliiskoe-vyrazenie)
-- [dz-techs](https://www.dz-techs.com/ru/resolve-the-disk-is-write-protected/)
-- [dzen](https://dzen.ru/a/Xi7blrooHgCuDSpm)
-- [habr](https://habr.com/ru/companies/kingston_technology/articles/391367/)
-- [kingston](https://www.kingston.com/ua/blog/pc-performance/benefits-of-ssd#)
+- Съемные носители: флешка — английское выражение
+[Электронный ресурс] URL:
+[https://uchet-jkh.ru/i/semnye-nositeli-fleska-angliiskoe-vyrazenie]
+- Что такое флеш-накопитель - полное руководство
+[Электронный ресурс] URL:
+[https://recoverit.wondershare.com.ru/flashdrive-recovery/what-is-pen-drive.html]
+- В чем разница между флэш-памятью и накопителем SSD?
+[Электронный ресурс] URL:
+[https://dzen.ru/a/Xi7blrooHgCuDSpm]
+- История развития флеш-памяти
+[Электронный ресурс] URL:
+[https://habr.com/ru/companies/kingston_technology/articles/391367/]
+- 5 преимуществ твердотельных накопителей
+[Электронный ресурс] URL:
+[https://www.kingston.com/ua/blog/pc-performance/benefits-of-ssd#]
